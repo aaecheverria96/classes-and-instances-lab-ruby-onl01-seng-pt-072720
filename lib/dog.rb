@@ -1,3 +1,3 @@
-class dog 
-  #code to describe dog 
+class dog
+  #code to describe dog
 end 
